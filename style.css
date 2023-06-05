@@ -1,5 +1,5 @@
 header{
-    background-color: #353d58;
+    background-color: #FFAE00;
     color:white;
     display: flex;
     justify-content: space-around;
@@ -15,4 +15,10 @@ header{
     margin: 0 16px;
     padding: 24px 0;
     font-size: 24px;
+}
+.gato-novelo-de-lã{
+    width: 20%;
+}
+.escola{
+    background-image: linear-gradient(#FFAE00,#FFFF52);
 }
