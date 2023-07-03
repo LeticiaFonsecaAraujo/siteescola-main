@@ -29,11 +29,15 @@ header{
 }
 .escola-conteudo{
     width: 25%;
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
 }
 .escola-titulo{
-    padding: 24px
+    padding: 24px 0;
+}
+
+.estudante-imagem{
+    width: 120px;
 }
